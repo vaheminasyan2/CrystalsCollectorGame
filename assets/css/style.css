@@ -1,0 +1,15 @@
+.header {
+    font-size: 28px;
+}
+
+#targetNumber, #totalScore {
+    font-size: 24px;
+}
+
+.img-thumbnail {
+    cursor: pointer;
+}
+
+body {
+    background: url("../images/bananas.png");
+}
