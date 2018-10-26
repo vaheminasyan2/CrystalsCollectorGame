@@ -61,9 +61,7 @@ function startGame() {
     });
 };
 
-function playGame() {
+$(document).ready(function () {
     reset();
-    startGame();
-};
-
-playGame();
+    startGame();    
+});
